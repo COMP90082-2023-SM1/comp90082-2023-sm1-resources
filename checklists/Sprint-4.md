@@ -33,12 +33,6 @@ Make sure that:
 - [ ] Added to Confluence and Github. Industry partner will receive it as part of final release package.
 
 
-## High Fidelity Digital Prototype and Data Sample
-Make sure that:
-
-- [ ] Industry partner was granted access to the final version of digital prototype and can run it independently after the end of the teaching semester. 
-- [ ] A document was also generated with SAMPLE DATA industry partner will need to simulate tasks and scenarios in the final digital prototype (IF APPLIED . If not, please explain).
-
 ## Product
 Make sure that your product satisfy the following criteria:
 
